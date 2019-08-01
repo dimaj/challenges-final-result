@@ -1,13 +1,8 @@
 # Installation
 
-1. `git clone git@github.com:mlapps/blueprint.git com.metrological.app.Vimeo`
-2. `cd com.metrological.app.Vimeo`
-3. `git remote set-url origin git@github.com:mlapps/com.metrological.app.Vimeo.git`
-4. Create a new empty git repo on the specified origin url (https://github.com/organizations/mlapps/repositories/new):
-5. Set name and identifier in `metadata.json`.
-6. `git commit -anm "init app"`
-7. `git push origin master`
-8. `npm install`
+1. `git clone git@github.com:mlapps/challenges-final-result.git`
+2. `cd challenges-final-result`
+3. `npm install`
 
 Now please check if you can run index.html (using a web server or your IDE). 
 If it works you're set up and ready to start building your app!
